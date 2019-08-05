@@ -1,2 +1,2 @@
-# Git_Bash
+# Bash
 Starting using Bash
